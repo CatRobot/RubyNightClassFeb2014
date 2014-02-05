@@ -1,7 +1,7 @@
 #, name, email, irc nick-name, github, twitter
 1, Renée Hendricksen, renee@nird.us, reneedv, reneedv, @nirdllc
 2,
-3,
+3, Benjamin Zuercher, bbzuercher1@gmail.com, CatRobot, CatRobot, @bbzuercher
 4,
 5,
 6,
